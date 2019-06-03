@@ -1,0 +1,57 @@
+[09-Mar-2019 16:21:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_image() on boolean in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php:43
+Stack trace:
+#0 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/widgets/popular-courses/popular-courses.php(120): include()
+#1 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/class-lp-widget.php(192): LP_Widget_Popular_Courses->show()
+#2 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/widgets/wordpress.php(262): LP_Widget->widget(Array, Array)
+#3 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(494): Elementor\Widget_WordPress->render()
+#4 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(629): Elementor\Widget_Base->render_content()
+#5 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/element-base.php(661): Element in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php on line 43
+[09-Mar-2019 16:23:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_image() on boolean in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php:43
+Stack trace:
+#0 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/widgets/popular-courses/popular-courses.php(120): include()
+#1 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/class-lp-widget.php(192): LP_Widget_Popular_Courses->show()
+#2 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/widgets/wordpress.php(262): LP_Widget->widget(Array, Array)
+#3 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(494): Elementor\Widget_WordPress->render()
+#4 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(629): Elementor\Widget_Base->render_content()
+#5 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/element-base.php(661): Element in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php on line 43
+[09-Mar-2019 16:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_image() on boolean in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php:43
+Stack trace:
+#0 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/widgets/popular-courses/popular-courses.php(120): include()
+#1 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/class-lp-widget.php(192): LP_Widget_Popular_Courses->show()
+#2 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/widgets/wordpress.php(262): LP_Widget->widget(Array, Array)
+#3 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(494): Elementor\Widget_WordPress->render()
+#4 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(629): Elementor\Widget_Base->render_content()
+#5 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/element-base.php(661): Element in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php on line 43
+[09-Mar-2019 16:23:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_image() on boolean in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php:43
+Stack trace:
+#0 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/widgets/popular-courses/popular-courses.php(120): include()
+#1 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/class-lp-widget.php(192): LP_Widget_Popular_Courses->show()
+#2 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/widgets/wordpress.php(262): LP_Widget->widget(Array, Array)
+#3 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(494): Elementor\Widget_WordPress->render()
+#4 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(629): Elementor\Widget_Base->render_content()
+#5 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/element-base.php(661): Element in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php on line 43
+[09-Mar-2019 16:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_image() on boolean in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php:43
+Stack trace:
+#0 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/widgets/popular-courses/popular-courses.php(120): include()
+#1 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/class-lp-widget.php(192): LP_Widget_Popular_Courses->show()
+#2 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/widgets/wordpress.php(262): LP_Widget->widget(Array, Array)
+#3 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(494): Elementor\Widget_WordPress->render()
+#4 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(629): Elementor\Widget_Base->render_content()
+#5 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/element-base.php(661): Element in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php on line 43
+[09-Mar-2019 16:23:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_image() on boolean in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php:43
+Stack trace:
+#0 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/widgets/popular-courses/popular-courses.php(120): include()
+#1 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/class-lp-widget.php(192): LP_Widget_Popular_Courses->show()
+#2 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/widgets/wordpress.php(262): LP_Widget->widget(Array, Array)
+#3 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(494): Elementor\Widget_WordPress->render()
+#4 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(629): Elementor\Widget_Base->render_content()
+#5 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/element-base.php(661): Element in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php on line 43
+[09-Mar-2019 16:24:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_image() on boolean in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php:43
+Stack trace:
+#0 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/widgets/popular-courses/popular-courses.php(120): include()
+#1 /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/class-lp-widget.php(192): LP_Widget_Popular_Courses->show()
+#2 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/widgets/wordpress.php(262): LP_Widget->widget(Array, Array)
+#3 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(494): Elementor\Widget_WordPress->render()
+#4 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/widget-base.php(629): Elementor\Widget_Base->render_content()
+#5 /home/webifytoday/public_html/elearning/wp-content/plugins/elementor/includes/base/element-base.php(661): Element in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/templates/widgets/popular-courses/default.php on line 43
+[13-Mar-2019 05:44:23 UTC] PHP Warning:  Creating default object from empty value in /home/webifytoday/public_html/elearning/wp-content/plugins/learnpress/inc/class-lp-preview-course.php on line 127
